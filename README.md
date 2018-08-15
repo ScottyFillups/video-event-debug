@@ -1,6 +1,6 @@
-# video-event-debugger
+# video-event-debug
 
-Log (ie. `console.log`) all HTML5 video player events in real-time. Demonstration here: https://github.com/ScottyFillups/video-event-debug
+Log (ie. `console.log`) all HTML5 video player events in real-time. Demonstration here: http://scottyfillups.io/video-event-debug
 
 ## Installation
 
